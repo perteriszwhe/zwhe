@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<images>
+	<image id = "map_hongxing2_01" value = "Graphics/Parallaxes/hongxing2.png" />
+	<image id = "map_hongxing2_02" value = "Graphics/Parallaxes/hongxing2_bc.png" />
+	<image id = "map_hongxing2_03" value = "Graphics/Parallaxes/hongxing2_c.png" />
+	
+	<image id = "map_hongxing2s_01" value = "Graphics/Parallaxes/hongxing2s.jpg" />
+	<image id = "map_hongxing2s_02" value = "Graphics/Parallaxes/hongxing2s_bc.jpg" />
+	<image id = "map_hongxing2s_03" value = "Graphics/Parallaxes/hongxing2s_c.jpg" />
+	
+	<image id = "award_cup_01" value = "Graphics/Parallaxes/award_cup.jpg" />
+	<image id = "award_cup_02" value = "Graphics/Parallaxes/award_cup_bc.jpg" />
+	<image id = "award_cup_03" value = "Graphics/Parallaxes/award_cup_c.jpg" />
+	
+	<image id = "mission_ui_main" value = "Graphics/Pictures/mission_ui_main.png" />
+	<image id = "mission_ui_exp_mask" value = "Graphics/Pictures/mission_ui_exp_mask.png" />
+	<image id = "mission_ui_exp_f" value = "Graphics/Pictures/mission_ui_exp_f.png" />
+	
+	<image id = "mission_ui_blood_b" value = "Graphics/Pictures/mission_ui_blood_b.png" />
+	<image id = "mission_ui_blood_f" value = "Graphics/Pictures/mission_ui_blood_f.png" />
+	<image id = "mission_ui_blood_m" value = "Graphics/Pictures/mission_ui_blood_m.png" />
+	
+	<image id = "hongxing4" value = "map/Parallaxes/hongxing4.png" />
+	<image id = "hongxing4_b_bc" value = "map/Parallaxes/hongxing4_b_bc.png" />
+	<image id = "hongxing4_b_c" value = "map/Parallaxes/hongxing4_b_c.png" />
+	
+	<image id = "hongxing3" value = "map/Parallaxes/hongxing4.png" />
+	<image id = "hongxing3_b_bc" value = "map/Parallaxes/hongxing4_b_bc.png" />
+	<image id = "hongxing3_b_c" value = "map/Parallaxes/hongxing4_b_c.png" />
+	
+	<image id = "hongxing2s" value = "map/Parallaxes/hongxing4.png" />
+	<image id = "hongxing2s_b_bc" value = "map/Parallaxes/hongxing4_b_bc.png" />
+	<image id = "hongxing2s_b_c" value = "map/Parallaxes/hongxing4_b_c.png" />
+</images>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<achieves>
+	<achieve id = "1" key = "雷厉风行" value = "成功使用右键加速进度达到100%" progress = "false" show = "true" />
+	<achieve id = "2" key = "翻云覆雨" value = "成功使用双击右键强行出击8次" progress = "false" show = "true" />
+	<achieve id = "3" key = "势无可挡" value = "成功点击黄色小圈使用暴击12次" progress = "false" show = "true" />
+	<achieve id = "4" key = "铜墙铁壁" value = "成功点击蓝色小圈使用防御8次" progress = "false" show = "true" />
+	<achieve id = "5" key = "熟能生巧" value = "成功使用1－4切换快捷键20次" progress = "false" show = "true" />
+	<achieve id = "6" key = "天外飞仙" value = "使用技能把敌人吹飞5次" progress = "false" show = "true" />
+	<achieve id = "7" key = "排山倒海" value = "使用技能撞到墙人5次" progress = "false" show = "true" />
+	<achieve id = "8" key = "飞遁鸣高" value = "使用技能把敌人吹飞出屏幕5次" progress = "false" show = "true" />
+	<achieve id = "9" key = "气贯长虹" value = "成功打断敌人的进攻并且反击6次" progress = "false" show = "true" />
+	<achieve id = "10" key = "百战百胜" value = "获得200场胜利/已胜利0场" progress = "false" show = "true" />
+	<achieve id = "11" key = "一骑当千" value = "获得500场胜利/已胜利0场" progress = "false" show = "true" />
+	<achieve id = "12" key = "万夫莫敌" value = "获得1000场胜利/已胜利0场" progress = "false" show = "true" />
+	<achieve id = "13" key = "凤翼天翔" value = "在一次游戏中使用〖凤翼天翔〗击败8个敌人" progress = "false" show = "true" />
+	<achieve id = "14" key = "刀耕火耨" value = "在一次游戏中使用〖火烧草门人〗击败5个敌人" progress = "false" show = "true" />
+	<achieve id = "15" key = "无药可救" value = "找到并完成〖教学〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "16" key = "破釜沉舟" value = "在〖巨魔〗关卡中变小后依然获得胜利" progress = "false" show = "true" />
+	<achieve id = "17" key = "已饥已溺" value = "找到并完成〖寻找焚姬〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "18" key = "千里之外" value = "找到〖美人计〗关卡中66RPG的邀请纸条" progress = "false" show = "true" />
+	<achieve id = "19" key = "前赴后继" value = "找到并完成〖初探红杏山庄〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "20" key = "背井离乡" value = "找到并完成〖风魔〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "21" key = "价值连城" value = "找到并完成〖一生忘情水〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "22" key = "满目疮痍" value = "找到并完成〖百里映山红〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "23" key = "匣里龙吟" value = "找到〖收天下之兵〗关卡的无名宝剑" progress = "false" show = "true" />
+	<achieve id = "24" key = "英雄救美" value = "找到并完成〖大闹清风寨〗关卡的隐藏支线" progress = "false" show = "true" />
+	<achieve id = "25" key = "饕餮大餐" value = "在〖变形记〗关卡中选择吃掉狐狸" progress = "false" show = "true" />
+	<achieve id = "26" key = "不知贵贱" value = "在〖狐妖的报恩〗关卡中获得神针" progress = "false" show = "true" />
+	<achieve id = "27" key = "牛刀小试" value = "在〖穿越吧，女王〗关卡中完成隐藏支线" progress = "false" show = "true" />
+	<achieve id = "28" key = "招摇撞骗" value = "在〖夜魔师兄〗关卡中完成隐藏支线" progress = "false" show = "true" />
+	<achieve id = "29" key = "抚今追昔" value = "找到并完成〖重返红杏山庄〗关卡中隐藏支线" progress = "false" show = "true" />
+	<achieve id = "30" key = "身单力薄" value = "被怪物送回出发点30次/已被送回0次" progress = "false" show = "true" />
+	<achieve id = "31" key = "唯我独尊" value = "成功购买12元标准版" progress = "false" show = "true" />
+	<achieve id = "32" key = "登堂入室" value = "成功转入web版" progress = "false" show = "true" />
+	<achieve id = "33" key = "身强体壮" value = "成功次一项属性强化到最大" progress = "false" show = "true" />
+</achieves>

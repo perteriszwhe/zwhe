@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	id 		唯一标识一个事件
+	type	事件类型(1.继续下一次对话，2.发技能)
+ -->
+<events>
+	<event id = "1" type = "1" />
+	<event id = "2" type = "2" animation = "66Made_JG_35" target = "1" />
+</events>

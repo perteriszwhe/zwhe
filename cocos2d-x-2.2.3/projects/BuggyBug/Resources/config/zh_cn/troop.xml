@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<troops>
+	<role id = "1" name = "野猪侠">
+		<property id = "1"  key = "attack" name = "攻击力" value = "0" />
+		<property id = "2"  key = "defense" name = "防御力" value = "0" />
+		<property id = "3"  key = "life" name = "生  命"  = "500" />
+		<property id = "4"  key = "speed" name = "速  度" value = "40" />
+		<property id = "5"  key = "blown" name = "吹  飞" value = "34" />
+		<property id = "6"  key = "crit" name = "暴  击" value = "50" />
+		<property id = "7"  key = "attackgrow" name = "攻击成长" value = "9" />
+		<property id = "8"  key = "attackgrow" name = "防御成长" value = "1" />
+		<property id = "9"  key = "weight" name = "体    重" value = "60" />
+		<property id = "10"  key = "restoration" name = "恢    复" value = "30" />
+		<property id = "11"  key = "surplusCount" name = "剩余点数" value = "0" />
+		<desc>〖技能介绍〗</desc>
+		<desc>〖冲啊〗将敌人推远，如果撞到墙壁会造成撞墙伤害。</desc>
+		<desc>〖挑飞〗将敌人挑起，落地造成撞地伤害。</desc>
+		<desc>〖蓄力〗增加吹飞力和攻击力，可叠加三次。</desc>
+	</role>
+	
+	<role id = "2" name = "蒲公英侠">
+		<property id = "1"  key = "attack" name = "攻击力" value = "0" />
+		<property id = "2"  key = "defense" name = "防御力" value = "0" />
+		<property id = "3"  key = "life" name = "生  命" value = "150" />
+		<property id = "4"  key = "speed" name = "速  度" value = "150" />
+		<property id = "5"  key = "blown" name = "吹  飞" value = "15" />
+		<property id = "6"  key = "crit" name = "暴  击" value = "150" />
+		<property id = "7"  key = "attackgrow" name = "攻击成长" value = "8" />
+		<property id = "8"  key = "attackgrow" name = "防御成长" value = "4" />
+		<property id = "9"  key = "weight" name = "体    重" value = "10" />
+		<property id = "10"  key = "restoration" name = "恢    复" value = "10" />
+		<property id = "11"  key = "surplusCount" name = "剩余点数" value = "0" />
+		<desc>〖技能介绍〗</desc>
+		<desc>〖魔神牙〗使敌人降低防御力，可叠加三次。</desc>
+		<desc>〖紫蒲天驱〗造成单次高额伤害。</desc>
+		<desc>〖秋沙雨〗造成多次少量伤害。</desc>
+	</role>
+	
+	<role id = "3" name = "少侠">
+		<property id = "1"  key = "attack" name = "攻击力" value = "0" />
+		<property id = "2"  key = "defense" name = "防御力" value = "0" />
+		<property id = "3"  key = "life" name = "生  命" value = "300" />
+		<property id = "4"  key = "speed" name = "速  度" value = "70" />
+		<property id = "5"  key = "blown" name = "吹  飞" value = "35" />
+		<property id = "6"  key = "crit" name = "暴  击" value = "50" />
+		<property id = "7"  key = "attackgrow" name = "攻击成长" value = "8" />
+		<property id = "8"  key = "attackgrow" name = "防御成长" value = "5" />
+		<property id = "9"  key = "weight" name = "体    重" value = "30" />
+		<property id = "10"  key = "restoration" name = "恢    复" value = "12" />
+		<property id = "11"  key = "surplusCount" name = "剩余点数" value = "0" />
+		<desc>〖技能介绍〗</desc>
+		<desc>〖斩字诀〗造成单次高伤害。</desc>
+		<desc>〖翔字诀〗将敌人挑起，落地造成撞地伤害。</desc>
+		<desc>〖崩字诀〗降低敌人体重，防御力，攻击力，可叠加多次</desc>
+	</role>
+	
+	<role id = "4" name = "女侠">
+		<property id = "1"  key = "attack" name = "攻击力" value = "0" />
+		<property id = "2"  key = "defense" name = "防御力" value = "0" />
+		<property id = "3"  key = "life" name = "生  命" value = "300" />
+		<property id = "4"  key = "speed" name = "速  度" value = "90" />
+		<property id = "5"  key = "blown" name = "吹  飞" value = "15" />
+		<property id = "6"  key = "crit" name = "暴  击" value = "50" />
+		<property id = "7"  key = "attackgrow" name = "攻击成长" value = "11" />
+		<property id = "8"  key = "attackgrow" name = "防御成长" value = "4" />
+		<property id = "9"  key = "weight" name = "体    重" value = "25" />
+		<property id = "10"  key = "restoration" name = "恢    复" value = "12" />
+		<property id = "11"  key = "surplusCount" name = "剩余点数" value = "0" />
+		<desc>〖技能介绍〗</desc>
+		<desc>〖旋风〗可减轻敌人体重，最多可叠加三次。</desc>
+		<desc>〖雷光符〗命中后使敌人的行动槽减少，本身攻击力不高。</desc>
+		<desc>〖狂风破〗可将敌人吹远，如果撞到墙壁会造成撞墙伤害。</desc>
+	</role>
+</troops>

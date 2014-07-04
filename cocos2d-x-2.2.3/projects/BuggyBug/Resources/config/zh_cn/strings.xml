@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string id = "system_font" name = "黑体" desc = "" />
+	<string id = "level_open_count" name = "开启%d次" desc = "" />
+	<string id = "level_clearance_count" name = "通关%d次" desc = "" />
+	<string id = "level_most_speed" name = "最速%d秒" desc = "" />
+	<string id = "level_most_hight" name = "最高%d分" desc = "" />
+</resources>

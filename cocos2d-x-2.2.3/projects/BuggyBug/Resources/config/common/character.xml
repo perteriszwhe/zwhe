@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 人物配置
+	id 					索引对应人物
+	roleId				角色Id ( 1.盲侠 2.剪刀手 3.百里大侠）
+	standing			站姿
+	running				跑姿
+	walking				走姿
+	sleeping			睡姿
+	squatting			蹲姿
+	name 				名称
+	shadow				影子
+	dodging				闪躲
+	sitting				坐姿
+	type				人物类型(1.主角 2.NPC)
+ -->
+<characters>
+	<character id = "1" init = "murong_idle3&1.png" standing = "murong_idle3&1.png" running = "murong_move&8" sleeping = "murong_idle&1.png" squatting = "murong_idle2&1.png" shadow = "murong_shadow.png" dodging = "murong_stand&1.png" name = "盲侠"  />
+	<character id = "2" init = "zx_stand&55-1.png" standing = "zx_stand&55" running = "zx_move&11" shadow = "zx_shadow.png" name = "剪刀手"  />
+	<character id = "3" init = "bailireal_stand&1.png" standing = "bailireal_stand&1.png" running = "bailireal_move&12" shadow = "bailireal_shadow.png" name = "百里大侠"  />
+	<character id = "4" init = "npc001_idle&18-1.png" sitting = "npc001_idle&18" name = "NPC001" />
+	<character id = "5" init = "orc2_hurt&4-1.png" standing = "orc2_hurt&4" running = "orc2_move&8" name = "Enemey001" />
+	
+</characters>

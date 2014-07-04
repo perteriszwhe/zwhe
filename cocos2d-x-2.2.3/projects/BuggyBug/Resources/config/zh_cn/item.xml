@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemroot>
+	<item id = "1" name = "weapon">
+		<property id = "1" type = "1" imageFile = "weapon1.png" playImage = "HUD_09.png" cdTime = "0" price = "10" describe = "第1个武器" />
+		<property id = "2" type = "1" imageFile = "weapon2.png" playImage = "HUD_12.png" cdTime = "0" price = "25" describe = "第2个武器" />
+		<property id = "3" type = "1" imageFile = "weapon3.png" playImage = "HUD_29.png" cdTime = "0" price = "35" describe = "第3个武器" />
+		<property id = "4" type = "1" imageFile = "weapon4.png" playImage = "HUD_31.png" cdTime = "0" price = "23" describe = "第4个武器" />
+		<property id = "5" type = "1" imageFile = "weapon5.png" playImage = "HUD_27.png" cdTime = "0" price = "25" describe = "第5个武器" />
+        <property id = "6" type = "1" imageFile = "weapon6.png" playImage = "HUD_57.png" cdTime = "0" price = "18" describe = "第6个武器" />
+        <property id = "7" type = "1" imageFile = "weapon7.png" playImage = "HUD_60.png" cdTime = "0" price = "25" describe = "第7个武器" />
+        <property id = "8" type = "1" imageFile = "weapon8.png" playImage = "HUD_55.png" cdTime = "0" price = "25" describe = "第8个武器" />
+        <property id = "9" type = "1" imageFile = "weapon9.png" playImage = "HUD_86.png" cdTime = "0" price = "25" describe = "第9个武器" />
+        <property id = "10" type = "1" imageFile = "weapon10.png" playImage = "HUD_85.png" cdTime = "0" price = "25" describe = "第10个武器" />
+        <property id = "11" type = "1" imageFile = "weapon11.png" playImage = "HUD_82.png" cdTime = "0" price = "25" describe = "第11个武器" />
+	</item>
+    
+    <item id = "2" name = "item">
+		<property id = "1" type = "2" imageFile = "item1.png" playImage = "HUD_42.png" cdTime = "3" price = "25" describe = "第1个道具" />
+		<property id = "2" type = "2" imageFile = "item2.png" playImage = "HUD_44.png" cdTime = "3" price = "25" describe = "第2个道具" />
+		<property id = "3" type = "2" imageFile = "item3.png" playImage = "HUD_46.png" cdTime = "3" price = "25" describe = "第3个道具" />
+		<property id = "4" type = "2" imageFile = "item4.png" playImage = "HUD_66.png" cdTime = "3" price = "25" describe = "第4个道具" />
+		<property id = "5" type = "2" imageFile = "item5.png" playImage = "HUD_67.png" cdTime = "3" price = "25" describe = "第5个道具" />
+        <property id = "6" type = "2" imageFile = "item6.png" playImage = "HUD_68.png" cdTime = "3" price = "25" describe = "第6个道具" />
+        <property id = "7" type = "2" imageFile = "item7.png" playImage = "HUD_72.png" cdTime = "3" price = "25" describe = "第7个道具" />
+        <property id = "8" type = "2" imageFile = "item8.png" playImage = "HUD_74.png" cdTime = "3" price = "25" describe = "第8个道具" />
+        <property id = "9" type = "2" imageFile = "item9.png" playImage = "HUD_76.png" cdTime = "3" price = "25" describe = "第9个道具" />
+        <property id = "10" type = "2" imageFile = "item10.png" playImage = "HUD_91.png" cdTime = "3" price = "25" describe = "第10个道具" />
+	</item>
+</itemroot>

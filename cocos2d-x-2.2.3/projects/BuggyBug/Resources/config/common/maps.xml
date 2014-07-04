@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps>
+	<map id = "story01" bgImg01 = "map_hongxing2_01" bgImg02 = "map_hongxing2_02" bgImg03 = "map_hongxing2_03" />
+	<map id = "story02" bgImg01 = "map_hongxing2s_01" bgImg02 = "map_hongxing2s_02" bgImg03 = "map_hongxing2s_03" />
+	
+	<map id = "story03" bgImg01 = "award_cup_01" bgImg02 = "award_cup_02" bgImg03 = "award_cup_03" tmxFile = "map/award_cup.tmx" />
+	
+	<map id = "hongxing4" bgImg01 = "hongxing4" bgImg02 = "hongxing4_b_bc" bgImg03 = "hongxing4_b_c" tmxFile = "map/hongxing4.tmx" />
+	<map id = "hongxing3" bgImg01 = "hongxing3" bgImg02 = "hongxing3_b_bc" bgImg03 = "hongxing3_b_c" tmxFile = "map/hongxing3.tmx" />
+	<map id = "hongxing2s" bgImg01 = "hongxing2s" bgImg02 = "hongxing2s_b_bc" bgImg03 = "hongxing2s_b_c" tmxFile = "map/hongxing2s.tmx" />
+</maps>

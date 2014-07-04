@@ -1,0 +1,103 @@
+
+stronger-ant.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common elements/cake
+  rotate: true
+  xy: 258, 116
+  size: 63, 71
+  orig: 89, 89
+  offset: 12, 9
+  index: -1
+Common elements/shopping-cart
+  rotate: true
+  xy: 331, 111
+  size: 63, 65
+  orig: 76, 78
+  offset: 6, 7
+  index: -1
+Common elements/tear
+  rotate: false
+  xy: 398, 163
+  size: 22, 11
+  orig: 34, 31
+  offset: 6, 9
+  index: -1
+stronger ant/body
+  rotate: false
+  xy: 354, 176
+  size: 77, 75
+  orig: 92, 89
+  offset: 8, 7
+  index: -1
+stronger ant/body-food
+  rotate: false
+  xy: 148, 126
+  size: 108, 125
+  orig: 125, 135
+  offset: 9, 6
+  index: -1
+stronger ant/ears
+  rotate: false
+  xy: 433, 187
+  size: 32, 18
+  orig: 49, 30
+  offset: 10, 7
+  index: -1
+stronger ant/head
+  rotate: false
+  xy: 258, 181
+  size: 94, 70
+  orig: 105, 83
+  offset: 7, 5
+  index: -1
+stronger ant/head-cry
+  rotate: false
+  xy: 148, 57
+  size: 74, 67
+  orig: 105, 76
+  offset: 4, 5
+  index: -1
+stronger ant/left-hand
+  rotate: true
+  xy: 2, 20
+  size: 40, 83
+  orig: 50, 95
+  offset: 4, 6
+  index: -1
+stronger ant/leg
+  rotate: true
+  xy: 224, 96
+  size: 28, 32
+  orig: 38, 40
+  offset: 6, 3
+  index: -1
+stronger ant/right hand
+  rotate: true
+  xy: 433, 207
+  size: 44, 77
+  orig: 54, 95
+  offset: 6, 9
+  index: -1
+stronger ant/smoke
+  rotate: false
+  xy: 2, 2
+  size: 25, 16
+  orig: 35, 22
+  offset: 4, 3
+  index: -1
+stronger ant/smoke2
+  rotate: false
+  xy: 87, 44
+  size: 25, 16
+  orig: 38, 22
+  offset: 6, 3
+  index: -1
+stronger ant/struck-pose
+  rotate: false
+  xy: 2, 62
+  size: 144, 189
+  orig: 158, 202
+  offset: 7, 7
+  index: -1

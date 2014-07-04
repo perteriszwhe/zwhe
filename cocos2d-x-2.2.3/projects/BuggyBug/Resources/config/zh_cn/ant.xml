@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<antroot>
+	<ant id = "1" name = "普通蚂蚁" spineName = "basic-ant">
+		<property id = "1"  key = "totalBlood" name = "总血量" value = "1" />
+		<property id = "2"  key = "currentBlood" name = "当前血量" value = "1" />
+		<property id = "3"  key = "damage" name = "力量" value = "1" />
+		<property id = "4"  key = "goInSpeed" name = "初始速度" value = "40" />
+		<property id = "5"  key = "comeBackSpeed" name = "结束速度" value = "130" />
+        <property id = "6"  key = "score" name = "分数" value = "1" />
+	</ant>
+	
+	<ant id = "2" name = "快速蚂蚁" spineName = "faster-ant">
+		<property id = "1"  key = "totalBlood" name = "总血量" value = "1" />
+		<property id = "2"  key = "currentBlood" name = "当前血量" value = "1" />
+		<property id = "3"  key = "damage" name = "力量" value = "1" />
+		<property id = "4"  key = "goInSpeed" name = "初始速度" value = "80" />
+		<property id = "5"  key = "comeBackSpeed" name = "结束速度" value = "130" />
+        <property id = "6"  key = "score" name = "分数" value = "2" />
+	</ant>
+	
+	<ant id = "3" name = "强壮快速蚂蚁" spineName = "stronger-and-faster-ant">
+		<property id = "1"  key = "totalBlood" name = "总血量" value = "2" />
+		<property id = "2"  key = "currentBlood" name = "当前血量" value = "2" />
+		<property id = "3"  key = "damage" name = "力量" value = "2" />
+		<property id = "4"  key = "goInSpeed" name = "初始速度" value = "80" />
+		<property id = "5"  key = "comeBackSpeed" name = "结束速度" value = "130" />
+        <property id = "6"  key = "score" name = "分数" value = "3" />
+	</ant>
+    
+    <ant id = "4" name = "强壮蚂蚁" spineName = "stronger-ant">
+		<property id = "1"  key = "totalBlood" name = "总血量" value = "2" />
+		<property id = "2"  key = "currentBlood" name = "当前血量" value = "2" />
+		<property id = "3"  key = "damage" name = "力量" value = "2" />
+		<property id = "4"  key = "goInSpeed" name = "初始速度" value = "40" />
+		<property id = "5"  key = "comeBackSpeed" name = "结束速度" value = "130" />
+        <property id = "6"  key = "score" name = "分数" value = "2" />
+	</ant>
+</antroot>

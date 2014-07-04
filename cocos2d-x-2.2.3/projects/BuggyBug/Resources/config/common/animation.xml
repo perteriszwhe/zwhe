@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 帧动画配置
+	id 				索引动画key
+	startIdx		动画开始索引
+	endIdx			动画结束索引
+	nameRule		动画命名规则( %s = id   %d = [startIdx , endIdx]
+	frequency		每一帧动画频率
+ -->
+<animations>
+	<animation id = "pig_move&7" startIdx	= "1" endIdx = "7" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "dandelion_move&7" startIdx = "1" endIdx = "7" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "heroman_move&13" startIdx = "1" endIdx = "13" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "girl_move&12" startIdx = "1" endIdx = "12" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "murong_move&8" startIdx = "1" endIdx = "8" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "Balloon-ask" startIdx = "9" endIdx = "16" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-bla" startIdx = "49" endIdx = "56" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-can" startIdx = "65" endIdx = "72" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-hea" startIdx = "25" endIdx = "32" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-mov" startIdx = "33" endIdx = "40" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-mus" startIdx = "17" endIdx = "24" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-poi" startIdx = "57" endIdx = "64" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-sigh" startIdx = "1" endIdx = "8" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-wat" startIdx = "41" endIdx = "48" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "Balloon-zzz" startIdx = "73" endIdx = "80" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "66Made_JG_35" startIdx = "1" endIdx = "4" nameRule = "%s_%d.png" frequency = "0.1" />
+	<animation id = "zx_hurt&4" startIdx = "1" endIdx = "4" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "zx_move&11" startIdx = "1" endIdx = "11" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "zx_stand&55" startIdx = "1" endIdx = "55" nameRule = "%s-%d.png" frequency = "0.1" />
+	<animation id = "66Made_JG_23_small" startIdx = "1" endIdx = "16" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_JG_29" startIdx = "1" endIdx = "25" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "bailireal_move&12" startIdx = "1" endIdx = "12" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "bailireal_stand&12" startIdx = "1" endIdx = "12" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "backdream_01" startIdx = "1" endIdx = "56" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_5" startIdx = "1" endIdx = "15" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_6" startIdx = "1" endIdx = "10" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_6_01" startIdx = "1" endIdx = "10" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66made_20small" startIdx = "1" endIdx = "5" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_47X" startIdx = "1" endIdx = "20" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_JG_16" startIdx = "1" endIdx = "12" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_JG_17" startIdx = "1" endIdx = "6" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_JG_30" startIdx = "1" endIdx = "5" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_JG_31" startIdx = "1" endIdx = "15" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_JG_32" startIdx = "1" endIdx = "25" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Made_wind" startIdx = "1" endIdx = "25" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66Make_2X" startIdx = "1" endIdx = "23" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66RPG_sc_13png" startIdx = "1" endIdx = "24" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66RPG_sc_28png" startIdx = "1" endIdx = "30" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "66RPG_sc_69" startIdx = "1" endIdx = "15" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "anim001" startIdx = "1" endIdx = "16" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "anim002" startIdx = "1" endIdx = "35" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "anim003" startIdx = "1" endIdx = "22" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "anim004" startIdx = "1" endIdx = "30" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "animesanpuru52" startIdx = "1" endIdx = "15" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "Attack3" startIdx = "1" endIdx = "10" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "baihua_attack" startIdx = "1" endIdx = "36" nameRule = "%s_%d.png" frequency = "0.05" />
+	<animation id = "teleport&56" startIdx = "1" endIdx = "56" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "npc001_idle&18" startIdx = "1" endIdx = "18" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "orc2_hurt&4" startIdx = "1" endIdx = "4" nameRule = "%s-%d.png" frequency = "0.05" />
+	<animation id = "orc2_move&8" startIdx = "1" endIdx = "8" nameRule = "%s-%d.png" frequency = "0.05" />
+</animations>

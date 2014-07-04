@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<levelroot>
+	<level id = "1" name = "第1波" time = "30">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "60"/>
+	</level>
+	
+	<level id = "2" name = "第2波" time = "30">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "60"/>
+		<property id = "2" type = "s"  ant = "2" describe = "快速蚂蚁" number = "10"/>
+	</level>
+    
+    <level id = "3" name = "第3波" time = "30">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "60"/>
+        <property id = "3" type = "b"  ant = "4" describe = "强壮蚂蚁" number = "15"/>
+	</level>
+	
+	<level id = "4" name = "第4波" time = "30">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "60"/>
+        <property id = "3" type = "b"  ant = "3" describe = "强壮快速蚂蚁" number = "15"/>
+	</level>
+    
+    <level id = "5" name = "第5波" time = "60">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "90"/>
+        <property id = "2" type = "n"  ant = "4" describe = "强壮蚂蚁" number = "30"/>
+        <property id = "3" type = "b"  ant = "3" describe = "强壮快速蚂蚁" number = "30"/>
+	</level>
+    
+    <level id = "6" name = "第6波" time = "60">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "90"/>
+        <property id = "2" type = "n"  ant = "2" describe = "快速蚂蚁" number = "30"/>
+        <property id = "3" type = "b"  ant = "3" describe = "强壮快速蚂蚁" number = "20"/>
+        <property id = "4" type = "b"  ant = "4" describe = "强壮蚂蚁" number = "20"/>
+	</level>
+    
+    <level id = "7" name = "第7波" time = "60">
+		<property id = "1" type = "n"  ant = "1" describe = "普通蚂蚁" number = "190"/>
+        <property id = "2" type = "n"  ant = "2" describe = "快速蚂蚁" number = "130"/>
+        <property id = "3" type = "b"  ant = "3" describe = "强壮快速蚂蚁" number = "65"/>
+        <property id = "4" type = "b"  ant = "4" describe = "强壮蚂蚁" number = "65"/>
+	</level>
+</levelroot>

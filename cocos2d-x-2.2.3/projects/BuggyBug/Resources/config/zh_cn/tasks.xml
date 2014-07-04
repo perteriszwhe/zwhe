@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+	<task id = "1" nextId = "2" desc = "手指操作移动，\n向左走出房间" />
+</tasks>

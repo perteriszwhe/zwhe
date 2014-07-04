@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	id 			索引唯一对话id
+	type		区分对话类型(1.表情，2.普通内容)
+	role		说话主角
+	content		说话内容
+	nextId		下一句说话ID
+	animation 	表情动画
+	roleId		角色Id ( 1.盲侠 2.剪刀手 3.百里大侠）
+ -->
+<speaks>
+	<speak id = "1" roleId = "1" type = "1" eventId = "1" nextId = "2" animation = "Balloon-ask" />
+	<speak id = "2" roleId = "1" type = "2" eventId = "1" nextId = "3" role = "盲侠" content = "无边的黑夜，冰冷的雨......" />
+	<speak id = "3" roleId = "1" type = "2" eventId = "1" nextId = "4" role = "盲侠" content = "这里......就是我旅程的终点了么......" />
+	<speak id = "4" roleId = "1" type = "1" eventId = "2" nextId = "5" animation = "Balloon-bla" />
+	<speak id = "5" roleId = "2" type = "2" eventId = "1" nextId = "6" role = "剪刀手" content = "真不愧是传说中的&quot;苍空之魂&quot;。\n都伤成这样了，还能躲开我的攻击。"/>
+	<speak id = "6" roleId = "1" type = "2" eventId = "1" nextId = "7" role = "盲侠" content = "虎落平阳，亦不会被尔等哈巴狗欺侮。" />
+	<speak id = "7" roleId = "2" type = "2" eventId = "1" nextId = "8" role = "剪刀手" content = "屁话，你中了无药可解的剧毒，生命已经只有\n最后一柱香的时刻而已。" />
+	<speak id = "8" roleId = "2" type = "2" eventId = "1" nextId = "9" role = "剪刀手" content = "你死后中原武林再无人能阻挡我们。" />
+	<speak id = "9" roleId = "2" type = "2" eventId = "3" nextId = "10" role = "剪刀手" content = "盲侠慕容光诚，用你反白的双眼最后看看这个\n世界吧！永夜即将降临，这个世界，马上就会\n被我们所改变了。" />
+	<speak id = "10" roleId = "1" type = "2" eventId = "4" nextId = "11" role = "盲侠" content = "你做梦。"/>
+	<speak id = "11" roleId = "2" type = "2" eventId = "5" nextId = "12" role = "剪刀手" content = "强弩之末，能耐我何！"/>
+	<speak id = "12" roleId = "2" type = "2" eventId = "6" nextId = "13" role = "剪刀手" content = "今......今天放过你一马......给我记住......\n你这种螳臂当车的行为......" />
+	<speak id = "13" roleId = "1" type = "2" eventId = "1" nextId = "14" role = "盲侠" content = "呼.........呼........." />
+	<speak id = "14" roleId = "1" type = "2" eventId = "1" nextId = "22" role = "盲侠" content = "唉......真的老了，打不动了......" />
+	<speak id = "22" roleId = "1" type = "1" eventId = "1" nextId = "15" animation = "Balloon-ask" />
+	<speak id = "15" roleId = "1" type = "2" eventId = "7" nextId = "23" role = "盲侠" content = "这个世界......会怎么样呢......" />
+	<speak id = "23" roleId = "3" type = "1" eventId = "8" nextId = "24" animation = "Balloon-ask" />
+	<speak id = "24" roleId = "1" type = "1" eventId = "1" nextId = "16" animation = "Balloon-ask" />
+	<speak id = "16" roleId = "1" type = "2" eventId = "1" nextId = "25" role = "盲侠" content = "唔！" />
+	<speak id = "25" roleId = "3" type = "1" eventId = "9" nextId = "17" animation = "Balloon-ask" />
+	<speak id = "17" roleId = "3" type = "2" eventId = "10" nextId = "18" role = "？？" content = "醒了啊，大伯？" />
+	<speak id = "18" roleId = "1" type = "2" eventId = "1" nextId = "19" role = "盲侠" content = "你救了我？为什么。" />
+	<speak id = "19" roleId = "3" type = "2" eventId = "1" nextId = "20" role = "百里大侠" content = "路见不平拔刀相助，百里某人隐居多年，今天有人\n竟然在我家门口欺负一个瞎老头子，嘿嘿，这种坑爹\n的事，我辈岂能坐视不管？" />
+	<speak id = "20" roleId = "3" type = "2" eventId = "11" nextId = "21" role = "百里大侠" content = "稍等片刻，百里某人去把门口的魑魅\n魍魉清扫一圈即归来。" />
+</speaks>

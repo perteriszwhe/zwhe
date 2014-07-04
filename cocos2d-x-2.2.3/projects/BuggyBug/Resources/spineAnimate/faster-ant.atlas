@@ -1,0 +1,89 @@
+
+faster-ant.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common elements/cake
+  rotate: false
+  xy: 138, 58
+  size: 63, 71
+  orig: 89, 89
+  offset: 12, 9
+  index: -1
+Common elements/shopping-cart
+  rotate: false
+  xy: 398, 177
+  size: 63, 65
+  orig: 76, 78
+  offset: 6, 7
+  index: -1
+Common elements/tear
+  rotate: false
+  xy: 138, 45
+  size: 22, 11
+  orig: 34, 31
+  offset: 6, 9
+  index: -1
+faster ant/body
+  rotate: false
+  xy: 2, 2
+  size: 48, 40
+  orig: 144, 59
+  offset: 50, 8
+  index: -1
+faster ant/body-food
+  rotate: false
+  xy: 138, 131
+  size: 75, 111
+  orig: 95, 129
+  offset: 10, 9
+  index: -1
+faster ant/cry-head
+  rotate: false
+  xy: 307, 173
+  size: 89, 69
+  orig: 97, 75
+  offset: 4, 3
+  index: -1
+faster ant/ears
+  rotate: true
+  xy: 463, 220
+  size: 22, 47
+  orig: 44, 65
+  offset: 13, 8
+  index: -1
+faster ant/hand
+  rotate: false
+  xy: 463, 201
+  size: 19, 17
+  orig: 44, 46
+  offset: 12, 12
+  index: -1
+faster ant/hand-big
+  rotate: true
+  xy: 215, 137
+  size: 34, 42
+  orig: 73, 90
+  offset: 20, 26
+  index: -1
+faster ant/head
+  rotate: false
+  xy: 215, 173
+  size: 90, 69
+  orig: 144, 90
+  offset: 29, 8
+  index: -1
+faster ant/leg
+  rotate: true
+  xy: 52, 20
+  size: 22, 49
+  orig: 44, 83
+  offset: 13, 13
+  index: -1
+faster ant/struck-pose
+  rotate: false
+  xy: 2, 44
+  size: 134, 198
+  orig: 140, 207
+  offset: 3, 4
+  index: -1
